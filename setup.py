@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='mark8_inventory_repo',
-    version='0.2.0',
+    version='0.2.1',
     description="Inventory integrations for multiple ecommerce/qcommerce platforms",
     author='Ankit Pandey',
     author_email='ankit.pandey@infytrix.com',
